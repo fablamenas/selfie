@@ -1,0 +1,21 @@
+{
+    "name": "Selfie",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.6",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
